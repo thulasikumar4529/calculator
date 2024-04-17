@@ -1,4 +1,6 @@
 # calculator
-# for technohacks
-# from internship
-# task 3
+# basic calculus
+# addition 
+# subtraction 
+# devision 
+# multiplication 
